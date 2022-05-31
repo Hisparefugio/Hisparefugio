@@ -23,4 +23,5 @@
 - https://8chan.moe/hisparefugio/  
 - https://8chan.moe/hisrol/
 - https://8chan.moe/col/
+- https://8chan.moe/arepa/
 - https://krautchan.rip/hs
