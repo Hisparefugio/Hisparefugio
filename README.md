@@ -21,4 +21,4 @@
 ##  Tablones y Chanes
 - https://8chan.moe/hispachan/
 - https://8chan.moe/hisparefugio/  
-  
+- https://8chan.moe/hisrol/
