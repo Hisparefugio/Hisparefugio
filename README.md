@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Hisparefugio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<img src="https://www.hispachan.org/tools/logo-hispachan.png" align="center" style="width: 100%" />
+</div>  
+  
 
-<!---
-Hisparefugio/Hisparefugio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <div align="center">HispaRefugio - Index</div>  
+  
+
+- Si no sabes lo que sucede anon te lo resumire, Zeta y la administracion decidieron cerrar hispa para siempre. Si quieres mas informacion entra [aqui](https://www.hispachan.org/blog/#/fin)  
+  
+
+- Aqui la funcion es indexar todos los tablones y chanes para poder refugiarnos  
+  
+
+- Bienvenido a HispaRefugio un lugar para los desanparados de Chispa, aqui se recopilara y informara donde esta esos refugios y ademas otros chanes hispanos  
+  
+
+<br/>  
+
+
+##  Tablones y Chanes
+- https://8chan.moe/hispachan/
+- https://8chan.moe/hisparefugio/  
+  
