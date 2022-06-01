@@ -102,4 +102,4 @@ Se esta armando, espera un segundo
 ## Ayuda y notas
 - Para cualquier cosa comunicarse con el correo de administracion hispana **chisparefugio@gmail.com**
 - La administracion de Hispachan (antiguo) ahora esta en el mas alla. No somos ellos
-- Si necesitas ayuda de mas arriba comunicate por correo a **codexx@cock.li** (si encerio existe) este es el admistrador y dueño principal
+- Si necesitas ayuda de mas arriba comunicate por correo a **codexx@cock.li** (si encerio existe) este es el admistrador y dueño principal. Ademas tambien puedes usar **8moeadmin@protonmail.com** otro correo de la administracion principal (o global)
