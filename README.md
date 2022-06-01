@@ -20,8 +20,10 @@
 
 ##  Tablones y Chanes
 - https://8chan.moe/hispachan/
+test
 - https://8chan.moe/hisparefugio/  
 - https://8chan.moe/hisrol/
+- https://8chan.moe/esp/
 - https://8chan.moe/col/
 - https://8chan.moe/arepa/
 - https://krautchan.rip/hs
