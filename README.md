@@ -55,7 +55,10 @@ Tablon enfocado en animacion y comics para los hispano hablantes. Antiguo /ac/
 ```
 Tablon nuevo! Dedicado al posteo de vtubers en general
 ```
-
+- https://endchan.net/centraca
+```
+recomendado por un anon de kr
+```
 ## 8chan.moe - Por que aqui se mudaron? 
 
 - Fue el lugar mas comodo para muchos negros, gracias a su adminsitracion que tiene brazos abiertos para recivir chanes caidos, ademas su buena pagina proviene de codigo libre facil de modificar y acercalo a los gusto de los negros para mejor experiencia
