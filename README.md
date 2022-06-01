@@ -6,7 +6,7 @@
 ### <div align="center">HispaRefugio - Index</div>  
   
 
-- Si no sabes lo que sucede anon te lo resumire, Zeta y la administracion decidieron cerrar hispa para siempre. Si quieres mas informacion entra [aqui](https://www.hispachan.org/blog/#/fin)  
+- Si no sabes lo que sucede anon te lo resumire, Zeta y la administracion decidieron cerrar hispa para siempre. Si quieres mas informacion entra [aqui](https://archive.is/l60ee)  
   
 
 - Aqui la funcion es indexar todos los tablones y chanes para poder refugiarnos  
