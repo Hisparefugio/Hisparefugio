@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.hispachan.org/tools/logo-hispachan.png" align="center" style="width: 100%" />
+<img src="/8273d4187d9a415a26a2e241ec48fb922e579f47.png" align="center" style="width: 100%" />
 </div>  
   
 
