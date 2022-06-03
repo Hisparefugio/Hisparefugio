@@ -72,7 +72,8 @@ Cualquier poder no delegado al staff global por las reglas globales, o prohibido
 ```
 - Aparte de las reglas globales tambien cada tablon tiene sus propias reglas (casi similares y con dos reglas mas) 
 - Como mencione antes cada tablon tiene sus reglas, para ver eso por ejemplo el tablon /hispachan/ que en un enlace es https://8chan.moe/hispachan/ se le agrega /rules.html y entrarias a la seccion de reglas. El resultado seria https://8chan.moe/hispachan/rules.html
-- Tambien puedes acceder a las reglas como en la imagen de ejemplo
+- Tambien puedes acceder a las reglas como en la imagen de ejemplo 
+- <img src="/Screenshot_196.png" align="center" style="width: 100%" />
 
 ## Ayuda y notas
 - Primero que nada para explicar cada tablon tiene su dueño. Por ejemplo el dueño de /arepa/ es anon1 y por otro lado el dueño de /col/ es anon2. Lo que pasa en /arepa/ no se ve relacionado /col/ y sus dueños estan por separado moderando sus tablones
