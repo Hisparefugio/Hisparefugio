@@ -35,6 +35,8 @@
 
 - [/vt/](https://8chan.moe/vt/) Tablón nuevo! Dedicado al posteo de vtubers en general
 
+- [/hispol/](https://8chan.moe/hispol/) Tablon basado en /pol/ de Hispa. Aqui podras hablar de politica, idiologia y mas. ¡Tiene banderitas activado!
+
 ## Reglas 
 
 - Al vivir abajo de otro chan tenemos que seguir sus reglas, estas reglas se conocen como _Reglas Globales_ esta se deben cumplir en los tablones hispanos y todos los demas.
@@ -77,6 +79,8 @@ Cualquier poder no delegado al staff global por las reglas globales, o prohibido
 - Para ayuda vaya al hilo de /m/eta [click aqui](https://8chan.moe/site/res/5682.html) donde se reúne todos los dueños de los tablones. Aquí se puede discutir, proponer y reportar para tener una comunicación plena. Aquí se encuentra todos los staff de cada tablón hispano
 
 - Si necesitas hablar con alguien con mas poder puedes comunicarte con 8moeadmin@protonmail.com para el staff de chan completo, te comunicas con los jefes de jefes
+
+- Cada tablon tiene un dueño direfente y un correo de contacto diferente, por ejemplo /hispachan/ su correo es chisparefugio@gmail.com o el tablon /arepa/ su correo es magnarepa@cock.li (si eres un dueño de un tablon escribe en el hilo de /m/eta para agregar tu contacto)
 
 - Un detalle, en esta pagina la jerarquía funciona así. El jefe de jefes, es dueño de todo la pagina y abajo de el se encuentra los mods globales, seria los guardianes de toda la pagina, si rompes las reglas globales estos se encarga de ti. Abajo de los mods globales están los dueños de los tablones, donde este ejerce su poder en su respectivo tablón y hace cumplir las reglas impuesta en ese tablón mas las globales. Sumando a su mods de tablón, ayudantes del dueño. 
 - En pocas palabras, 
