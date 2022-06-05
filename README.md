@@ -16,7 +16,9 @@
 
 - Un dia ante del gran cierre la administración de hispa levanto varias reglas y una fue hablar sobre otros chanes libremente. En consecuencia muchos negros comenzaron a buscar opciones y soluciones. Hubo muchas respuesta pero la mejor fue 8 .moe ¿la razón? es de los pocos tablones de imágenes que permite la apertura de boards por parte de sus anónimos, también que ya teníamos otros hispanons alojándose aquí desde antes del cierre. Fue el lugar mas cómodo para muchos negros, gracias a su administración que tiene brazos abiertos para recibir chanes caidos, además su buena pagina proviene de código libre fácil de modificar y acercarlo a los gusto de los negros para mejor experiencia
 
-<br/>  
+## Eventos!!
+
+- Ya pasaron varios dias y ya nos asentamos bien en el 8, hoy (5/6/2022) se hace de Ghost Screen, si estas interesado directo de dale [click aqui](https://8chan.moe/ac/res/479.html#479) 
 
 ## Tablones
 - [/hispachan/](https://8chan.moe/hispachan/) Tablón principal de hispa, algo así como /b/ donde nos refugiamos principalmente, aquí esta los negros de /a/ /v/ /tv/ etc
