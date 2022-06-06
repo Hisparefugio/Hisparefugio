@@ -31,6 +31,8 @@
 
 - [/col/](https://8chan.moe/col/) Tablón Regional de Colombia, del antiguo /co/
 
+- [/mex/](https://8chan.moe/mex/) Tablon Regional de Mexico.
+
 - [/arepa/](https://8chan.moe/arepa/) Tablón Regional de Venezuela, del antiguo /ve/
 
 - [/ac/](https://8chan.moe/ac/) Tablón enfocado en animación y comics para los hispano hablantes. Antiguo /ac/ 
