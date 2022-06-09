@@ -31,6 +31,8 @@
 
 - [/col/](https://8chan.moe/col/) Tablón Regional de Colombia, del antiguo /co/
 
+- [/cc/](https://8chan.moe/cc/) Tablon regional para Centroamérica y el Caribe. 
+ 
 - [/mex/](https://8chan.moe/mex/) Tablon Regional de Mexico.
 
 - [/arepa/](https://8chan.moe/arepa/) Tablón Regional de Venezuela, del antiguo /ve/
