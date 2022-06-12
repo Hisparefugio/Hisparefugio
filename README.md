@@ -18,7 +18,7 @@
 
 ## Eventos!!
 
-- Ya pasaron varios dias y ya nos asentamos bien en el 8, hoy (5/6/2022) se hace de Ghost Screen, si estas interesado directo de dale [click aqui](https://8chan.moe/ac/res/479.html#479) 
+- El dia de hoy por primera vez en el nuevo refugio se celebra  Ghost Screen, si quieres interacuar pasate por [aqui](https://8chan.moe/ac/res/1102.html#1102) y si quiere ver el streming entra [aqui](https://ghostscreen.neocities.org/canales/ghost.html) :3 
 
 ## Tablones
 - [/hispachan/](https://8chan.moe/hispachan/) Tablón principal de hispa, algo así como /b/ donde nos refugiamos principalmente, aquí esta los negros de /a/ /v/ /tv/ etc
