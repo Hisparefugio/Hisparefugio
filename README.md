@@ -27,6 +27,8 @@
 
 - [/hisrol/](https://8chan.moe/hisrol/) Antiguo tablón /r/ de hispachan, fue nukeado hace mas tiempo pero se mudaron primero a .moe. Aquí se hace rolplay y otras cosas mas
 
+- [/av/](https://8chan.moe/av/) Nuevo tablon de Anime, Manga y Videojuegos. 
+
 - [/esp/](https://8chan.moe/esp/) Tablón Regional de España, seria el /es/ de hispa.
 
 - [/col/](https://8chan.moe/col/) Tablón Regional de Colombia, del antiguo /co/
